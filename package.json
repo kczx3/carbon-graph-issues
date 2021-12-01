@@ -1,0 +1,23 @@
+{
+  "name": "carbon-graph-issues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kczx3/carbon-graph-issues.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kczx3/carbon-graph-issues/issues"
+  },
+  "homepage": "https://github.com/kczx3/carbon-graph-issues#readme",
+  "dependencies": {
+    "@cerner/carbon-graphs": "^2.18.2"
+  }
+}
